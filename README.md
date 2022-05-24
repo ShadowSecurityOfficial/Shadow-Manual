@@ -1,4 +1,4 @@
-# Shadow-News
+# Shadow-Manual
 
 Shadow-Manual is our documentation on everything relating to ShadowSecurity. Shadow-Documentation is a documentation and manual is part of the larger ShadowSecuritySuite, Shadow-Manual allows you to learn about ShadowSecurity projects and how to use them.
 
