@@ -9,7 +9,7 @@ Shadow-Manual is our documentation on everything relating to ShadowSecurity. Sha
 💖 Made possible thanks to these projects 💖
 
 ```
-https://ghost.org/
+https://js.wiki/
 https://www.httrack.com/
 https://archive.org/
 https://www.gitkraken.com/
