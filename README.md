@@ -14,6 +14,7 @@ https://www.mediawiki.org/wiki/MediaWiki
 https://www.freenom.com/
 https://cloudflare.com/
 https://www.gitkraken.com/
+https://code.visualstudio.com/
 ```
 # Requesting a feature
 
