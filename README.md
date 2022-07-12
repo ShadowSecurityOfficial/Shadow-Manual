@@ -9,7 +9,7 @@ Shadow-Manual is our documentation on everything relating to ShadowSecurity. Sha
 💖 Made possible thanks to these projects 💖
 
 ```
-https://www.wikidot.com/ (HTTPS Through Cloudflare and Freenom)
+https://www.wikidot.com/ (HTTPS/SSL Through Cloudflare and Freenom)
 https://www.mediawiki.org/wiki/MediaWiki
 https://www.freenom.com/
 https://cloudflare.com/
